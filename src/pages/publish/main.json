@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "发布",
+    "navigationBarTextStyle": "black",
+    "usingComponents": {
+        "van-button": "/static/dist/button/index"
+    }
+}
